@@ -99,6 +99,6 @@ Atualmente estamos desenvolvendo o sistema **⚽ Valentes de Davi** — uma solu
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer" width="100%" />
 
-<sub>Feito com 💙 pelo <b>Grupo 04 — Tela Azul</b> | FATEC Franca • 2025</sub>
+<sub>Feito pelo <b>Grupo 04 — Tela Azul</b> | FATEC Franca • 2025/2028</sub>
 
 </div>
