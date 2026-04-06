@@ -46,35 +46,35 @@ Atualmente estamos desenvolvendo o sistema **⚽ Valentes de Davi** — uma solu
   <tr>
     <td align="center" width="150">
       <a href="https://github.com/ViniciusSalviano">
-        <img src="https://api.dicebear.com/9.x/notionists-neutral/svg?seed=Marcus" width="100" /><br />
+        <img src="https://img.icons8.com/ios-filled/100/3B82F6/user-male-circle.png" width="80" /><br />
         <sub><b>Vinicius Salviano</b></sub>
       </a><br/>
       <a href="https://linkedin.com/in/vinicius-salviano"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
     </td>
     <td align="center" width="150">
       <a href="https://github.com/Glegorio">
-        <img src="https://api.dicebear.com/9.x/notionists-neutral/svg?seed=James" width="100" /><br />
+        <img src="https://img.icons8.com/ios-filled/100/3B82F6/user-male-circle.png" width="80" /><br />
         <sub><b>Vitor Gabriel</b></sub>
       </a><br/>
       <a href="https://linkedin.com/in/vitor-gabriel-dos-reis-glegorio-193469314"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
     </td>
     <td align="center" width="150">
       <a href="https://github.com/brendon0heitor">
-        <img src="https://api.dicebear.com/9.x/notionists-neutral/svg?seed=Robert" width="100" /><br />
+        <img src="https://img.icons8.com/ios-filled/100/3B82F6/user-male-circle.png" width="80" /><br />
         <sub><b>Brendon Heitor</b></sub>
       </a><br/>
       <a href="https://linkedin.com/in/brendon-heitor-bessa-silva-72b841173"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
     </td>
     <td align="center" width="150">
       <a href="https://github.com/SEU_USER">
-        <img src="https://api.dicebear.com/9.x/notionists-neutral/svg?seed=Daniel" width="100" /><br />
+        <img src="https://img.icons8.com/ios-filled/100/3B82F6/user-male-circle.png" width="80" /><br />
         <sub><b>Luís Felipe</b></sub>
       </a><br/>
       <a href="https://linkedin.com/in/SEU_USER"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
     </td>
     <td align="center" width="150">
       <a href="https://github.com/SEU_USER">
-        <img src="https://api.dicebear.com/9.x/notionists-neutral/svg?seed=Kevin" width="100" /><br />
+        <img src="https://img.icons8.com/ios-filled/100/3B82F6/user-male-circle.png" width="80" /><br />
         <sub><b>Khelvin Willian</b></sub>
       </a><br/>
       <a href="https://linkedin.com/in/SEU_USER"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
