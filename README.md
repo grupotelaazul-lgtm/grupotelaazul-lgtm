@@ -84,15 +84,14 @@ Atualmente estamos desenvolvendo o sistema **⚽ Valentes de Davi** — uma solu
 
 ---
 
-### 🛠️ Tecnologias que usamos
+### 🛠️ Tecnologias
 
 <p align="center">
-  <img src="https://img.shields.io/badge/A%20DEFINIR-Linguagem-3B82F6?style=for-the-badge&logo=code&logoColor=white" />
-  <img src="https://img.shields.io/badge/A%20DEFINIR-Framework-1E40AF?style=for-the-badge&logo=code&logoColor=white" />
-  <img src="https://img.shields.io/badge/A%20DEFINIR-Banco%20de%20Dados-0D1117?style=for-the-badge&logo=database&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
-
-> ⬆️ *Substitua pelos badges reais quando definir as tecnologias (ex: Java, React, MySQL...).*
 
 ---
 
