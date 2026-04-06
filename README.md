@@ -45,11 +45,11 @@ Atualmente estamos desenvolvendo o sistema **⚽ Valentes de Davi** — uma solu
 <table align="center">
   <tr>
     <td align="center" width="150">
-      <a href="https://github.com/SEU_USER">
-        <img src="https://github.com/SEU_USER.png" width="100" style="border-radius:50%" /><br />
+      <a href="https://github.com/ViniciusSalviano">
+        <img src="https://github.com/ViniciusSalviano.png" width="100" style="border-radius:50%" /><br />
         <sub><b>Vinicius Salviano</b></sub>
       </a><br/>
-      <a href="https://linkedin.com/in/SEU_USER"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+      <a href="https://linkedin.com/in/vinicius-salviano"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
     </td>
     <td align="center" width="150">
       <a href="https://github.com/Glegorio">
