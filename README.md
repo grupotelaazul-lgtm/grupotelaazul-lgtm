@@ -46,35 +46,35 @@ Atualmente estamos desenvolvendo o sistema **⚽ Valentes de Davi** — uma solu
   <tr>
     <td align="center" width="150">
       <a href="https://github.com/ViniciusSalviano">
-        <img src="https://github.com/ViniciusSalviano.png" width="100" style="border-radius:50%" /><br />
+        <img src="https://api.dicebear.com/9.x/adventurer/svg?seed=Vinicius&backgroundColor=b6e3f4" width="100" /><br />
         <sub><b>Vinicius Salviano</b></sub>
       </a><br/>
       <a href="https://linkedin.com/in/vinicius-salviano"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
     </td>
     <td align="center" width="150">
       <a href="https://github.com/Glegorio">
-        <img src="https://github.com/Glegorio.png" width="100" style="border-radius:50%" /><br />
+        <img src="https://api.dicebear.com/9.x/adventurer/svg?seed=Vitor&backgroundColor=c0aede" width="100" /><br />
         <sub><b>Vitor Gabriel</b></sub>
       </a><br/>
       <a href="https://linkedin.com/in/vitor-gabriel-dos-reis-glegorio-193469314"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
     </td>
     <td align="center" width="150">
       <a href="https://github.com/brendon0heitor">
-        <img src="https://github.com/brendon0heitor.png" width="100" style="border-radius:50%" /><br />
+        <img src="https://api.dicebear.com/9.x/adventurer/svg?seed=Brendon&backgroundColor=d1d4f9" width="100" /><br />
         <sub><b>Brendon Heitor</b></sub>
       </a><br/>
       <a href="https://linkedin.com/in/brendon-heitor-bessa-silva-72b841173"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
     </td>
     <td align="center" width="150">
       <a href="https://github.com/SEU_USER">
-        <img src="https://github.com/SEU_USER.png" width="100" style="border-radius:50%" /><br />
+        <img src="https://api.dicebear.com/9.x/adventurer/svg?seed=Luis&backgroundColor=ffd5dc" width="100" /><br />
         <sub><b>Luís Felipe</b></sub>
       </a><br/>
       <a href="https://linkedin.com/in/SEU_USER"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
     </td>
     <td align="center" width="150">
       <a href="https://github.com/SEU_USER">
-        <img src="https://github.com/SEU_USER.png" width="100" style="border-radius:50%" /><br />
+        <img src="https://api.dicebear.com/9.x/adventurer/svg?seed=Khelvin&backgroundColor=ffdfbf" width="100" /><br />
         <sub><b>Khelvin Willian</b></sub>
       </a><br/>
       <a href="https://linkedin.com/in/SEU_USER"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
