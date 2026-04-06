@@ -52,11 +52,11 @@ Atualmente estamos desenvolvendo o sistema **⚽ Valentes de Davi** — uma solu
       <a href="https://linkedin.com/in/SEU_USER"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
     </td>
     <td align="center" width="150">
-      <a href="https://github.com/SEU_USER">
+      <a href="https://github.com/Glegorio">
         <img src="https://github.com/Glegorio.png" width="100" style="border-radius:50%" /><br />
         <sub><b>Vitor Gabriel</b></sub>
       </a><br/>
-      <a href="https://linkedin.com/in/Glegorio"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+      <a href="https://linkedin.com/in/vitor-gabriel-dos-reis-glegorio-193469314"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
     </td>
     <td align="center" width="150">
       <a href="https://github.com/SEU_USER">
